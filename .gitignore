@@ -1,0 +1,4 @@
+.venv/*
+*.pyc
+
+naarad_fe/db.sqlite3
